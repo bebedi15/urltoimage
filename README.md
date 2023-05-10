@@ -1,6 +1,6 @@
 # Image Downloader
 
-This is a Python script that downloads images from a list of URLs and saves them to a directory. It can handle duplicate URLs and prevents overwriting of existing images.
+This is a Python script that downloads images from a list of Image URLs and saves them to a directory. It can handle duplicate URLs and prevents overwriting of existing images.
 
 ## Requirements
 
