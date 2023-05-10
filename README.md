@@ -1,15 +1,18 @@
-# Image Downloader
+# 🌅 Image Downloader
+
+![Image Downloader logo](https://cdn.pixabay.com/photo/2016/03/27/18/54/earth-1281678_960_720.png)
 
 This is a Python script that downloads images from a list of Image URLs and saves them to a directory. It can handle duplicate URLs and prevents overwriting of existing images.
 
-## Requirements
+
+## 📋 Requirements
 
 - Python 3.x
 - requests
 - loguru
 - colorama
 
-## Installation
+## 🛠️ Installation
 
 1. Install Python 3.x on your system if it's not already installed.
 2. Clone or download this repository to your local machine.
@@ -20,7 +23,7 @@ This is a Python script that downloads images from a list of Image URLs and save
     pip install -r requirements.txt
     ```
 
-## Usage
+## 💻 Usage
 
 1. Create a text file with one URL per line.
 2. Save the text file in the same directory as the script.
@@ -32,10 +35,10 @@ This is a Python script that downloads images from a list of Image URLs and save
 
 4. The downloaded images will be saved in a new directory called `output`.
 
-## Contributing
+## 🤝 Contributing
 
 If you find a bug or have an idea for a feature, feel free to open an issue or submit a pull request.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
