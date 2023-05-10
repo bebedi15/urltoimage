@@ -4,7 +4,17 @@
 
 This is a Python script that downloads images from a list of Image URLs and saves them to a directory. It can handle duplicate URLs and prevents overwriting of existing images.
 
+<div style="text-align:center">
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Version: 1.0.0
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+</div>
 
 
 ## 📋 Requirements
