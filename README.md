@@ -22,12 +22,12 @@ This is a Python script that downloads images from a list of URLs and saves them
 
 ## Usage
 
-1. Create a text file with one URL per line.
+1. Edit the text file "urls.txt" with one URL per line.
 2. Save the text file in the same directory as the script.
 3. Run the script by running the following command in your terminal:
 
     ```
-    python image_downloader.py
+    python main.py
     ```
 
 4. The downloaded images will be saved in a new directory called `output`.
