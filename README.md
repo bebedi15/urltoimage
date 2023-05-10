@@ -1,6 +1,7 @@
 # 🌅 Image Downloader
 
-![Image Downloader logo](https://cdn.pixabay.com/photo/2016/03/27/18/54/earth-1281678_960_720.png](https://github.com/bebedi15/urltoimage/blob/main/urltoimage.png)
+![Image Downloader logo]([https://cdn.pixabay.com/photo/2016/03/27/18/54/earth-1281678_960_720.png](https://github.com/bebedi15/urltoimage/blob/main/urltoimage.png?raw=true))
+
 
 This is a Python script that downloads images from a list of Image URLs and saves them to a directory. It can handle duplicate URLs and prevents overwriting of existing images.
 
