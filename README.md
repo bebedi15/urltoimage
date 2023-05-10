@@ -1,9 +1,4 @@
-# 🌅 Image Downloader
-
 ![Image Downloader logo](https://github.com/bebedi15/urltoimage/blob/main/urltoimage.png?raw=true)
-
-This is a Python script that downloads images from a list of Image URLs and saves them to a directory. It can handle duplicate URLs and prevents overwriting of existing images.
-
 
 
 <div align='center'>
@@ -18,8 +13,8 @@ This is a Python script that downloads images from a list of Image URLs and save
 
 </div>
 
-
-
+# 🌅 Image Downloader
+This is a Python script that downloads images from a list of Image URLs and saves them to a directory. It can handle duplicate URLs and prevents overwriting of existing images.
 
 
 ## 📋 Requirements
