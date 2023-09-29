@@ -48,6 +48,11 @@ This is a Python script that downloads images from a list of Image URLs and save
 
 4. The downloaded images will be saved in a new directory called `output`.
 
+## 😓 Help
+
+**If you need Help, contact me!!**
+**Discord: "Bebedi"**
+
 ## 🤝 Contributing
 
 If you find a bug or have an idea for a feature, feel free to open an issue or submit a pull request.
